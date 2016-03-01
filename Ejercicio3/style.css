@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+#mod{
+    background-color: lightgray;
+}
+
+ul{
+    list-style-type: none;
+    clear: both;
+}
+ul li{
+    float: left;
+    margin: 5px;
+    padding: 6px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: grey;
+    color: white;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+a:link   
+{   
+    text-decoration:none;   
+}
+
+.aS li{
+    background-color: lightblue;
+    color: white;
+    padding: 6px;
+    text-align: center;	
+    text-decoration: none;
+}
+
+.l1{
+    background-color: white;
+    border: 2px solid #e7e7e7;
+    color: black;
+   
+}
+.l1:hover {
+    background-color: #e7e7e7;
+}
