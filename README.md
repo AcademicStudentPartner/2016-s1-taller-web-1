@@ -1,1 +1,1 @@
-# 2016-s1-taller-web-1-sesion1
+# 2016 Semestre 1: Primer taller web
